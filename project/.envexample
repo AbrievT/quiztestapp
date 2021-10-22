@@ -1,0 +1,8 @@
+DEBUG= DEBUG STATUS
+SECRET_KEY= YOUR SECRET KEY
+
+DB_NAME= Database name
+DB_USER= Database user
+DB_PASSWORD= Database password
+DB_HOST= Host
+DB_PORT= Port
